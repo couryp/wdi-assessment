@@ -4,9 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couryp/wdi-assessment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/couryp/wdi-assessment/issues"
+  },
+  "homepage": "https://github.com/couryp/wdi-assessment#readme",
+  "dependencies": {
+    "nodemon": "^1.17.3"
+  }
 }
