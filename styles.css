@@ -3,5 +3,8 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  width: 100vw;
 
+  background-size: cover;
+  background-image: url('https://pre00.deviantart.net/cc25/th/pre/f/2017/113/7/8/vaporwave_aesthetic_by_rafael_de_jongh-db6uwhg.jpg');
 }
